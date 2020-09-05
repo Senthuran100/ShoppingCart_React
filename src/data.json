@@ -1,0 +1,52 @@
+{
+    "products": [
+      {
+        "_id": "shoe1",
+        "image": "./Images/shoe1.jpeg",
+        "title": "Running Shoes For Men",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes": ["X", "L", "XL", "XXL"],
+        "price": 29.9
+      },
+      {
+        "_id": "shoe2",
+        "image": "./Images/shoe2.jpeg",
+        "title": "Cosco Running Shoes For Men",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes": ["X", "M", "L"],
+        "price": 18.9
+      },
+      {
+        "_id": "shoe3",
+        "image": "./Images/shoe3.jpeg",
+        "title": "Walking shoes Running Shoes For Men",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes": ["X", "M", "L"],
+        "price": 14.9
+      },
+      {
+        "_id": "shoe4",
+        "image": "./Images/shoe4.jpeg",
+        "title": "WNDR-13 Running Shoes For Men",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes": ["XL"],
+        "price": 25.9
+      },
+      {
+        "_id": "shoe5",
+        "image": "./Images/shoe5.jpeg",
+        "title": "Training & Gym Shoes For Men",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes": ["X", "L", "XL"],
+        "price": 10.9
+      },
+      {
+        "_id": "shoe6",
+        "image": "./Images/shoe6.jpeg",
+        "title": "Oxygen Running Shoes For Men",
+        "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+        "availableSizes": ["XL", "XXL"],
+        "price": 49.9
+      }
+    ]
+  }
